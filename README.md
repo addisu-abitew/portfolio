@@ -1,6 +1,5 @@
 # Portfolio Website
 
-[Live Preview](https://proshopdemo.dev)
 [Live Preview](https://addisuabitew.netlify.com)
 
 ### Technologies Used
