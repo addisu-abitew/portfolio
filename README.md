@@ -1,6 +1,6 @@
 # Portfolio Website
 
-[Live Preview](addisuabitew.netlify.com)
+[Live Preview](https://addisuabitew.netlify.com)
 
 ### Technologies Used
 - React - a powerful JavaScript library used for building user interfaces
