@@ -1,5 +1,7 @@
 # Portfolio Website
 
+[Live Preview](addisuabitew.netlify.com)
+
 ### Technologies Used
 - React - a powerful JavaScript library used for building user interfaces
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
