@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { profilePic } from "../assets";
 
 const Hero = () => {
   return (
@@ -23,6 +24,14 @@ const Hero = () => {
             web and mobile applications
           </p>
         </div>
+      </div>
+
+      <div className="absolute xs:bottom-30 bottom-32 w-full flex justify-center items-center">
+        <img
+          src={profilePic}
+          alt="profile"
+          className="w-[200px] xs:w-[250px] w-[300px] aspect-square rounded-full object-cover"
+        />
       </div>
 
 

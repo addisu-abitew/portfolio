@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import profilePic from "./profile_pic.jpeg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,7 +21,26 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import flutter from "./tech/flutter.svg";
+import go from "./tech/go.svg";
+import dart from "./tech/dart.svg";
+import firebase from "./tech/firebase.svg";
+import nestjs from "./tech/nestjs.svg";
+import angular from "./tech/angular.svg";
+import csharp from "./tech/c-sharp.svg";
+import python from "./tech/python.svg";
+import tensorflow from "./tech/tensorflow.svg";
+import dotnet from "./tech/dot-net.svg";
+import java from "./tech/java.svg";
+import mysql from "./tech/mysql.svg";
+import postgresql from "./tech/postgresql.svg";
+import rust from "./tech/rust.svg";
+import express from "./tech/express.svg";
 
+import habtech from "./company/habtech.jpeg";
+import taptosign from "./company/taptosign.png";
+import upwork from "./company/upwork.png";
+import aladia from "./company/aladia.jpeg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -32,6 +52,7 @@ import tripguide from "./tripguide.png";
 
 import real_state from "./project/real_state.png"
 import proshop from './project/proshop.png'
+import soapah from './project/soapah.png'
 
 export {
   logo,
@@ -42,6 +63,7 @@ export {
   github,
   menu,
   close,
+  profilePic,
   css,
   docker,
   figma,
@@ -57,11 +79,31 @@ export {
   threejs,
   meta,
   shopify,
+  habtech,
+  taptosign,
+  upwork,
+  aladia,
   starbucks,
   tesla,
   real_state,
+  soapah,
   proshop,
   carrent,
   jobit,
   tripguide,
+  flutter,
+  go,
+  dart,
+  firebase,
+  nestjs,
+  angular,
+  csharp,
+  python,
+  tensorflow,
+  dotnet,
+  java,
+  mysql,
+  postgresql,
+  rust,
+  express,
 };

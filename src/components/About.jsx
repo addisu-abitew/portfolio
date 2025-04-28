@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer and designer with experience in Javascript and
-        Dart, and expertise in frameworks like React, Node.js, and
-        Flutter. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a versatile software developer with a strong focus on problem solving across a wide range of technologies. From intuitive user interfaces to AI-powered systems, I create efficient, scalable solutions tailored to real-world needs. Let’s collaborate to turn your vision into reality.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
